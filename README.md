@@ -1,4 +1,4 @@
-# 🚚 Sistem Pelacakan Paket (Cek Resi) - Kelompok 3
+# 🚚 Sistem Pelacakan Paket (Cek Resi) 
 
 Aplikasi web sederhana dan minimalis untuk melacak status pengiriman paket menggunakan integrasi **BinderByte API**. Proyek ini dibuat untuk tugas mata kuliah **Pemrograman Web A**.
 
@@ -49,4 +49,3 @@ Buka browser Anda dan akses:
 - **BinderByte API** (Sumber data pelacakan kurir)
 
 ---
-*Dibuat dengan 💻 oleh Kelompok 3 - Pemrograman Web A*
