@@ -2,6 +2,9 @@
 
 Aplikasi web sederhana dan minimalis untuk melacak status pengiriman paket menggunakan integrasi **BinderByte API**. Proyek ini dibuat untuk tugas mata kuliah **Pemrograman Web A**.
 
+<img width="606" height="472" alt="image" src="https://github.com/user-attachments/assets/56538207-2550-4c3f-ba0c-211b5a074f01" />
+
+
 ## ✨ Fitur
 - Melacak nomor resi dari berbagai ekspedisi populer (JNE, J&T, SiCepat, AnterAja, TIKI, POS Indonesia, SPX).
 - Antarmuka (UI) minimalis, premium, dan responsif (ramah pengguna *mobile*).
